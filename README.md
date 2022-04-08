@@ -1,1 +1,6 @@
-# AED
+- Algoritmos y Estructuras de Datos
+- Curso: K1253
+- Año de cursada: 2022
+- Legajo: 176.745-8
+- Apellido: Di Giuseppe
+- Nombre: Tomás
