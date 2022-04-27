@@ -1,2 +1,2 @@
-- Versión de G++: 11.2.0
-- Compilador: c++20
+- Versión de G++ 11.2.0
+- Compilado en c++20
